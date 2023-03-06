@@ -1,7 +1,10 @@
 
-
+import { AgeCounter } from "./AgeCounter";
 export function App() {
   return (
-    <div></div>
+    <div>
+      <AgeCounter/>
+
+    </div>
   );
 }
